@@ -9,7 +9,7 @@ Installation
 ------------
 
 ```
-$ pip install pync
+$ pip install git+https://github.com/SeTeM/pync.git
 ```
 or
 ```
